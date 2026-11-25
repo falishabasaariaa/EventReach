@@ -1,0 +1,6 @@
+{
+  "name": "EventReach",
+  "description": "Aplikasi manajemen audiens, segmentasi peserta, strategi komunikasi, perencanaan media promosi, dan evaluasi hasil promosi event.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
